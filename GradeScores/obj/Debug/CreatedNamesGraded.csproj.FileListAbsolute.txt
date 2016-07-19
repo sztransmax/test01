@@ -1,0 +1,6 @@
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\bin\Debug\CreatedNamesGraded.exe.config
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\bin\Debug\CreatedNamesGraded.exe
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\bin\Debug\CreatedNamesGraded.pdb
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\obj\Debug\CreatedNamesGraded.exe
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\obj\Debug\CreatedNamesGraded.pdb
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\obj\Debug\CreatedNamesGraded.csprojResolveAssemblyReference.cache

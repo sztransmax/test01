@@ -1,0 +1,5 @@
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\bin\Debug\grade-scores.exe.config
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\bin\Debug\grade-scores.exe
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\bin\Debug\grade-scores.pdb
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\obj\Debug\grade-scores.exe
+D:\Projects\CreatedNamesGraded\CreatedNamesGraded\obj\Debug\grade-scores.pdb
