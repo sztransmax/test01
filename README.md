@@ -3,7 +3,7 @@ Write .NET console app that:
 * Takes as a parameter a string that represents a text file containing a list of names, and their
 scores
 
-* rders the names by their score. If scores are the same, order by their last name followed by
+* Orders the names by their score. If scores are the same, order by their last name followed by
 first name
 
 * Creates a new text file called &lt;input-file- name&gt;-graded.txt with the list of sorted score and
