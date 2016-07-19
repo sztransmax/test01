@@ -45,6 +45,6 @@ It needs three parameters:
 **chunkSize:** that is the size of temporary chunk files used during the sort process  
 
 **Note:** this is based on k-way merge sort which is optimized for very large files. The biggest advantage of this algorithem is it does not need to load whole file into memory (which is impossible when the file size is larger than available memory).
-The algorithm starts with splitting the input file into sorted chunks. For handling duplicate lines, a priority queue jas been used (which is based on a max heap).
+The algorithm starts with splitting the input file into sorted chunks. For handling duplicate lines, a priority queue has been used (which is based on a max heap).
 
 
